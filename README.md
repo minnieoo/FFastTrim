@@ -18,6 +18,6 @@
 
 <!-- Note Section -->
  # Notes  <img width="32" height="auto" src="https://github.com/minnieoo/FFastTrim/assets/137783738/2c7406c5-87e5-47b0-8120-e5e68bb82b11" alt="logo" />
- 1.)  &emsp; Copy and paste the <strong>FULL</strong> path to your video. On Windows this is done by right clicking the video and clicking `copy as path`<br/><br/>
+ 1.)  &emsp; Copy and paste the <strong>FULL</strong> path to both your output folder and the video you want to speed up. On Windows this is done by right clicking the video and clicking `copy as path`. For example, if I want to output to my downloads folder, I must paste `"C:\Users\myName\Downloads"`, and the video I want to speed up should be something like `"C:\path\to\video\myVideo.mp4"`<br/><br/>
  2.)  &emsp; 0.5 speed factor = double the speed. 1 = same speed. 2 = twice as slow <br/><br/> 
  3.)  &emsp; This is probably very flawed, but it works. I will attempt to correct issues <br/><br/> 
