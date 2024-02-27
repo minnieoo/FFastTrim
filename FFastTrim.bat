@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 :: where sped up videos output to
-set "outputFolder=%userprofile%\Downloads"
+set /p "outputFolder=Specify an output folder (paste full path): "
 
 
 :: ask the user for their video, if it doesn't exist, ask again
