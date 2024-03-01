@@ -6,7 +6,7 @@
  -->
   <strong>Simple script for speeding up or slowing down videos using the CLI &amp; FFMpeg. It auto-trims the video.</strong>
 
- 1.)  &emsp; Ensure that you have FFMpeg installed. <a href="https://www.ffmpeg.org/download.html">Install FFMPeg here</a> or <a href="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">(tutorial).</a> This script WILL NOT WORK without FFMpeg! <br/><br/>
+ 1.)  &emsp; Ensure that you have FFMpeg installed. <a href="https://www.ffmpeg.org/download.html">Install FFMPeg here</a>, and there's a <a href="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">(tutorial).</a> This script WILL NOT WORK without FFMpeg! <br/><br/>
  2.)  &emsp; Download the FFastTrim script `FFastTrim.bat` <br/><br/> 
  3.)  &emsp; Double-click or otherwise <strong>run</strong> the script <br/><br/>
  4.)  &emsp; Follow prompts in the command prompt <br/><br/>
